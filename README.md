@@ -8,6 +8,6 @@
   <li>Many more...</li>
 </ul>
 
-<h1>Visit: <a href="https://sohelansari08.github.io/Portfolio-sample-website/">https://sohelansari08.github.io/Portfolio-sample-website/</a></h1>
+<h1>Visit: <a href="https://sohelansari08.github.io/Portfolio-sample-website/" target="_blank">https://sohelansari08.github.io/Portfolio-sample-website/</a></h1>
 
 <p>Author <i>~Sohel Ansari</i></p>
